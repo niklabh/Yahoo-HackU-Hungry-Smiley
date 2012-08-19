@@ -1,0 +1,79 @@
+body{font-family:Helvetica,Arial,'Liberation Sans',FreeSans,sans-serif;}
+#mainCanvas{
+  border: 1px solid black;  
+}
+#leftpanel{
+  position:absolute;
+  width: 250px;
+  left:0px;
+  top:0px;
+  padding-left:10px;
+  padding-top:10px;
+}
+#wrapper{
+  text-align: right;
+  width: 100%;
+}
+
+#title{
+  position:absolute;
+}
+#qrc{
+  position:relative;
+  margin-top:30px;
+  height:200px;
+  width=200px;
+}
+#im1{
+	margin-top:50px;
+	display:block;}
+#im2{display:block;}
+#im3{display:block;}
+#im4{display:block;}
+#im5{display:block;}
+#bead{display:block;}
+#score1{
+	position:absolute;
+	top:75px;
+	right:30px;
+	width:150px;
+	height:35px;
+	text-align:center;
+	padding:5px;
+}
+#score2{
+	position:absolute;
+	top:138px;
+	right:30px;
+	width:150px;
+	height:35px;
+	text-align:center;
+	padding:5px;
+}
+#score3{
+	position:absolute;
+	top:203px;
+	right:30px;
+	width:150px;
+	height:35px;
+	text-align:center;
+	padding:5px;
+}
+#score4{
+	position:absolute;
+	top:268px;
+	right:30px;
+	width:150px;
+	height:35px;
+	text-align:center;
+	padding:5px;
+}
+#score5{
+	position:absolute;
+	top:333px;
+	right:30px;
+	width:150px;
+	height:35px;
+	text-align:center;
+	padding:5px;
+}
